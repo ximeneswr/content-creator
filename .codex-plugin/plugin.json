@@ -1,0 +1,25 @@
+{
+  "author": {
+    "name": "William"
+  },
+  "description": "Skill modular para desenvolver ganchos originais de conteúdo, priorizar opções e adaptar os melhores a Reels curtos.",
+  "interface": {
+    "capabilities": [],
+    "category": "Other",
+    "defaultPrompt": null,
+    "developerName": "William",
+    "displayName": "content-creator",
+    "longDescription": "Skill modular para desenvolver ganchos originais de conteúdo, priorizar opções e adaptar os melhores a Reels curtos.",
+    "shortDescription": "Skill modular para desenvolver ganchos originais de conteúdo, priorizar opções e adaptar os melhores a Reels curtos."
+  },
+  "keywords": [
+    "criacao-de-conteudo",
+    "reels",
+    "ganchos",
+    "instagram",
+    "copywriting"
+  ],
+  "name": "content-creator",
+  "skills": "./skills",
+  "version": "0.1.0"
+}
